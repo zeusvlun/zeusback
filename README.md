@@ -64,7 +64,7 @@
 
 ## **Disclaimer**
 
-- **Educational Purposes Only**: TimeVault is designed for educational, security research, and ethical penetration testing purposes only. Do not use this tool for illegal or malicious activities. Ensure you have explicit permission to scan the target domain.
+- **Educational Purposes Only**: Zeusback is designed for educational, security research, and ethical penetration testing purposes only. Do not use this tool for illegal or malicious activities. Ensure you have explicit permission to scan the target domain.
 
 ## **Credits**
 
